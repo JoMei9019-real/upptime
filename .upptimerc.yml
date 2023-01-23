@@ -11,7 +11,7 @@ sites:
     url: https://status.jomei.tk
   - name: DNS
     check: "tcp-ping"
-    url: 207.180.242.101
+    url: 1.1.1.1
     port: 80
 
 status-website:
