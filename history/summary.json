@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.jomei.tk.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.79%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 372,
     "timeDay": 421,
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 31
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 165,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 130,
+    "timeDay": 161,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 31
     }
   }
 ]
