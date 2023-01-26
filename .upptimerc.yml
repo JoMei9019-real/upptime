@@ -27,7 +27,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/
+      href: ./check
     - title: Discord
       href: https://dc.anturnia.net
 
