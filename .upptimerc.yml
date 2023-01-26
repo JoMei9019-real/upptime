@@ -28,7 +28,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: ./check
+      href: http://www.jmstracker.tk/github/error.html
     - title: Discord
       href: https://dc.anturnia.net
 
