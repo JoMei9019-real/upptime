@@ -29,6 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: MC-Status
+      href: /minecraft
     - title: Website
       href: http://www.jomei.tk/
     - title: Discord
