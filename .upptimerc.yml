@@ -10,6 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Status
     url: https://status.jomei.tk
+  - name: Website
+    url: https://www.jomei.tk
   - name: DNS
     check: "tcp-ping"
     url: $IP
@@ -27,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: http://www.jmstracker.tk/github/error.html
+    - title: Website
+      href: http://www.jomei.tk/
     - title: Discord
       href: https://dc.anturnia.net
 
