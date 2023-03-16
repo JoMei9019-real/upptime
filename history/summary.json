@@ -4,18 +4,20 @@
     "url": "https://Anturnia.net",
     "icon": "https://i.postimg.cc/X7MQ3kMd/Hcs-IKQAx-200x200.png",
     "slug": "anturnia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 347,
+    "timeDay": 394,
     "timeWeek": 442,
-    "timeMonth": 429,
+    "timeMonth": 430,
     "timeYear": 462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -41,17 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.jomei.tk.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "100.00%",
+    "uptime": "98.30%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 346,
     "timeDay": 295,
     "timeWeek": 293,
     "timeMonth": 359,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2023-03-16": 0,
       "2023-02-28": 37,
       "2023-01-26": 933,
       "2023-01-25": 297
@@ -80,9 +83,9 @@
     "url": "$IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -92,6 +95,7 @@
     "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2023-03-16": 0,
       "2023-01-25": 31
     }
   }
