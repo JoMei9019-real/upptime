@@ -24,9 +24,9 @@
     "url": "https://dev.jomei.tk",
     "icon": "https://icons.duckduckgo.com/ip3/dev.jomei.tk.ico",
     "slug": "dev-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 608,
     "timeMonth": 608,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   },
   {
     "name": "Status",
@@ -43,19 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.jomei.tk.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "44.46%",
+    "uptime": "44.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.34%",
-    "uptimeYear": "44.46%",
+    "uptimeYear": "44.18%",
     "time": 387,
     "timeDay": 292,
     "timeWeek": 322,
     "timeMonth": 332,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2023-05-30": 1242,
       "2023-05-06": 1457,
-      "2023-05-30": 97,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
