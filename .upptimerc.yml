@@ -29,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Dev-site
-      href: http://dev.jomei.tk/
+    - title: Dev
+      href: http://www.jomei.tk/status
     - title: Website
       href: http://www.jomei.tk/
 
