@@ -1,7 +1,7 @@
 url: https://dev.jomei.tk
-status: up
-code: 200
-responseTime: 6207
-lastUpdated: 2023-08-04T23:17:13.593Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2023-08-05T18:43:11.298Z
 startTime: Wed May 24 2023 18:53:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
